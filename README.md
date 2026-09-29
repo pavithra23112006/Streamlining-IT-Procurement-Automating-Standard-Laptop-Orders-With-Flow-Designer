@@ -57,7 +57,7 @@ This project demonstrates end-to-end request fulfillment automation and Access C
 ---
 
 ## 📸 Proof of Work & Verification Screenshots
-*(Upload your screenshots to a `screenshots/` directory inside this repository)*
+
 
 1. `01_user_and_acl_setup.png` – User creation (`sys_user`) and ACL security configurations[span_33](start_span)[span_33](end_span)[span_34](start_span)[span_34](end_span).
 2. `02_flow_designer.png` – `Standard Laptop Task Flow` trigger and action steps in Flow Designer[span_35](start_span)[span_35](end_span).
