@@ -53,9 +53,9 @@ The objective was to automate the standard laptop request process using Flow Des
 
 ## 📸 Proof of Work & Verification Screenshots
 
-1. `01_user_and_acl_setup.png` – User creation (`sys_user`) and ACL security configuration.
+1. `` – User creation (`sys_user`) and ACL security configuration.
 2. `02_flow_designer.png` – `Standard Laptop Task Flow` trigger and action steps in Flow Designer.
-3. `03_flow_assignment.png` – Catalog item mapping to the Flow Designer flow.
+3. `03_https://github.com/pavithra23112006/Streamlining-IT-Procurement-Automating-Standard-Laptop-Orders-With-Flow-Designer/blob/main/Milestone%203%20Proofs.zip` – Catalog item mapping to the Flow Designer flow.
 4. `04_service_catalog_submission.png` – Submitting the Standard Laptop request and verifying task creation assigned to the Hardware team.
 
 ---
